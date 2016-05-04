@@ -6,8 +6,8 @@ En esta organización estaremos creando los repositorios de los ejemplos de cód
 
 Actualmente somos 3 colaboradores:
 
-@JorgePalomarB :monkey:
-@PatriciaPalomar :alien:
-@IsabelPalomar :pig:
+* [@JorgePalomarB](https://github.com/JorgePalomarB) :monkey:
+* [@PatriciaPalomar](https://github.com/PatriciaPalomar)  :alien:
+* [@IsabelPalomar](https://github.com/IsabelPalomar/)  :pig:
 
 
